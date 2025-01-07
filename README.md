@@ -29,3 +29,5 @@ A web app for calculating how much each patron should pay, including tips, for a
 ## Live site
 
 You can check out the live site [here](https://bill-splitter.vercel.app/).
+
+## How To Contribute
